@@ -1,3 +1,3 @@
 # Rose
 
-![Rose Image](photo/photo.png)
+![Rose Image](photo/rose.png)
